@@ -72,7 +72,7 @@
   </header>
   <!-- Main Content -->
   <main class="max-w-4xl mx-auto px-4 py-10 space-y-8">
-    <!-- Mandibular Disharmony -->
+    <!-- Mandibular Disharmony. -->
     <section class="bg-white p-6 rounded-lg shadow-md">
       <h2 class="text-2xl font-semibold text-rose-800 mb-4">Mandibular Disharmony</h2>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpQ_ty4rPC-K-hg24S8KvAVMeMnKEuuTdRg&s" alt="mandibula " width="300" height="200">
