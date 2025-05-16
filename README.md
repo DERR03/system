@@ -1,5 +1,4 @@
 # system
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -180,4 +179,3 @@
   </footer>
 </body>
 </html>
-![image](https://github.com/user-attachments/assets/fcf6ddc8-5bd7-4035-935c-a6bf88d0c17d)
