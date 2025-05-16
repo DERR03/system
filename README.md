@@ -1,1 +1,183 @@
 # system
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-teal-800 text-white py-6 shadow-md">
+    <div class="max-w-5xl mx-auto px-4">
+      <h1 class="text-3xl font-bold">Human Skeleton: Structure and Function</h1>
+      <p class="text-teal-200 mt-1">An anatomical and functional overview of the skeletal system</p>
+    </div>
+  </header>
+  <!-- Main Content -->
+  <main class="max-w-4xl mx-auto px-4 py-10 space-y-8">
+    <!-- Section: Introduction -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-teal-800 mb-4">Introduction & Research Data</h2>
+      <p class="text-gray-700 leading-relaxed">
+        The human skeleton not only helps the body stand upright while a person is walking or sitting,
+        it goes a little further, since this structure allows for maintaining correct order and organization within the organism.
+        It is also known as the bone or skeletal system.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        It acts as a kind of mechanical support and basis for posture.
+        The capacity of its structure, as well as its strength and rigidity, allows the entire body to maintain the correct morphology of the body,
+        thus allowing humans to walk without problems on two legs.
+      </p>
+    </section>
+    <!-- Section: Protection and Function -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-xl font-semibold text-teal-800 mb-4">Protection & Functional Role</h2>
+      <p class="text-gray-700 leading-relaxed">
+        The human skeleton is a shield for the human body, since each bone properly protects the organs inside.
+        These aspects can be clearly reflected in the case of the brain, which is protected by the skull, just as the rib cage protects the heart, lungs, among others.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        This skeletal system has the main characteristic of being a filter or moderator of the exchange of calcium, phosphate and salts.
+        Once this system reaches adulthood, it has 206 bones in its entire composition, which are perfectly supported by other systems,
+        such as ligaments, cartilage and bones.
+      </p>
+    </section>
+    <!-- Section: Connective Tissues -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-xl font-semibold text-teal-800 mb-4">Cartilage, Ligaments & Bone Composition</h2>
+      <img src="https://matthewprovenchermd.com/wp-content/uploads/2016/10/Anatomy-1-600x429.jpg"alt="composición " width="300" height="200">![image](https://github.com/user-attachments/assets/f9c3a740-3bad-4a53-a915-163abdd50e1d)
+      <p class="text-gray-700 leading-relaxed">
+        Ligaments are very flexible tissues that allow cushioning and protection between bones.
+        Cartilage is a semi-rigid connective tissue that covers bone surfaces at joints,
+        providing flexibility and resistance to mechanical stress.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        Bones are rigid, mineralized structures—among the hardest in the human body.
+        Inside bones is bone marrow, responsible for hematopoietic functions (production of red blood cells),
+        and containing adipose tissue, blood vessels, and nerves.
+      </p>
+    </section>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bone Disorders and Conditions</title>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-rose-800 text-white py-6 shadow-md">
+    <div class="max-w-5xl mx-auto px-4">
+      <h1 class="text-3xl font-bold">Common Bone Problems</h1>
+      <p class="text-rose-200 mt-1">Understanding conditions affecting skeletal health</p>
+    </div>
+  </header>
+  <!-- Main Content -->
+  <main class="max-w-4xl mx-auto px-4 py-10 space-y-8">
+    <!-- Mandibular Disharmony -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-rose-800 mb-4">Mandibular Disharmony</h2>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpQ_ty4rPC-K-hg24S8KvAVMeMnKEuuTdRg&s" alt="mandibula " width="300" height="200">
+      <p class="text-gray-700 leading-relaxed">
+        This problem refers to an alteration in the growth and development of the jaws — the central bone of the face and the jaw bone.
+        To solve this, orthodontic treatment is commonly used with a dental appliance known as an <strong>extraoral arch</strong>, also called a <em>"horse bit"</em>.
+      </p>
+    </section>
+    <!-- Bone Fissure -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-rose-800 mb-4">Bone Fissure</h2>
+      <img src="https://www.teachengineering.org/content/uoh_/lessons/uoh_fracture/uoh_fracture_lesson01_image1.gif" alt="bones fissures " width="300" height="200">
+      <p class="text-gray-700 leading-relaxed">
+        A bone fissure is a crack in the bone that does not fully break it, maintaining bone continuity.
+        If left untreated, the issue can worsen and compromise the bone’s function.
+        Treatment usually involves <strong>casts or splints</strong>, which immobilize the affected area and allow proper healing.
+      </p>
+    </section>
+    <!-- Femur Fracture -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-rose-800 mb-4">Femur Fracture</h2>
+      <img src="https://centralcoastortho.com/wp-content/uploads/2016/10/Femur-Fractures.jpg" alt="femur fracture" width="250" height="420">
+      <p class="text-gray-700 leading-relaxed">
+        This is a complete break of the femur, the longest and strongest bone in the human body.
+        Due to its size and function, <strong>casts are not typically used</strong>.
+        Instead, treatment involves:
+      </p>
+      <ul class="list-disc pl-6 text-gray-700 mt-2 space-y-1">
+        <li><strong>Internal fixation</strong>: screws, nails, or metal plates are inserted to realign the bone.</li>
+        <li><strong>External fixation</strong>: a device worn outside the skin helps stabilize and correct the bone structure.</li>
+      </ul>
+      </p>
+    </section>
+  </main>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-indigo-800 text-white py-6 shadow-md">
+    <div class="max-w-5xl mx-auto px-4">
+      <h1 class="text-3xl font-bold">Nanorobots in Bone Treatment</h1>
+    <img src="https://transferencia.tec.mx/wp-content/uploads/2021/07/bioglass-Figura-2-300x134.png" alt="Descripción de la imagen" width="300" height="200">
+      <p class="text-indigo-200 mt-1">Innovative solutions for fractures and skeletal irregularities</p>
+    </div>
+  </header>
+  <!-- Main Content -->
+  <main class="max-w-4xl mx-auto px-4 py-10 space-y-8">
+    <!-- Section: Solution -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-indigo-800 mb-4">Solution</h2>
+      <img src="https://www.newmedicaleconomics.es/wp-content/uploads/2024/04/nanorobots-assisting-procedures-medical-il-generative-ai-scaled.jpg" alt="technology solution " width="300" height="200">
+      <p class="text-gray-700 leading-relaxed">
+        Nanorobots could be assembled in the affected area, forming <strong>temporary structures</strong> that stabilize bones without bulky devices.
+        In mandibular disharmony, nanorobots would apply <strong>constant micro-adjustments</strong> to align the teeth,
+        eliminating the need for frequent dentist visits.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        For bone fissures and fixations, nanorobots could create a <strong>protective barrier</strong> that stabilizes the bone while it regenerates,
+        allowing the patient to maintain mobility without compromising recovery.
+      </p>
+    </section>
+    <!-- Section: Journey -->
+    <section class="bg-white p-6 rounded-lg shadow-md">
+      <h2 class="text-2xl font-semibold text-indigo-800 mb-4">Journey of the Nanorobots</h2>
+      <img src="https://s1.abcstatics.com/Media/201410/27/hueso--644x362.jpg" alt="bone repair " width="300" height="200">
+      <p class="text-gray-700 leading-relaxed">
+        To treat bone fractures, jaw irregularities, and structural fixations, nanorobots would travel <strong>through bone tissue</strong>,
+        not through the skin or blood vessels.
+      </p>
+      <img src="https://www.tecnologianano.com/tecnowp16/wp-content/uploads/2012/05/nanorobot-cuerpo-humano.jpg " alt="Descripción de la imagen" width="300" height="200">
+      <p class="text-gray-700 leading-relaxed mt-4">
+        The process begins with the <strong>implantation of nanorobots</strong> into the body. These are programmed to detect affected bone areas.
+        They move through tiny channels in the bone, called <em>canaliculi</em>, which connect to bone cells.
+        This avoids damaging sensitive surrounding tissues.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        Once in the target area, nanorobots form <strong>adaptive temporary structures</strong> to stabilize fractures or realign bones.
+        For jaw irregularities, precise changes are made directly to the bone without daily orthodontic tools.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        After healing, nanorobots either <strong>disintegrate naturally</strong> or reintegrate with the bone safely,
+        leaving no harmful traces in the body.
+      </p>
+      <p class="text-gray-700 leading-relaxed mt-4">
+        This innovative approach could help avoid invasive surgery and eliminate the need for <strong>splints, external fixators, or casts</strong>,
+        offering a more comfortable and efficient recovery process.
+      </p>
+    </section>
+    <!-- Placeholder for Future Expansion -->
+    <section class="bg-white p-6 rounded-lg shadow-md border border-dashed border-gray-300">
+      <h2 class="text-xl font-semibold text-indigo-800 mb-4">🚀 Future Applications</h2>
+      <p class="text-gray-500 italic">
+        Stay tuned for more information on how nanotechnology is transforming orthopedics, cellular repair, and post-trauma recovery.
+      </p>
+    </section>
+  </main>
+  <!-- Footer -->
+  <footer class="bg-indigo-800 text-white text-center py-4">
+    <p>&copy; 2025 Advanced Skeletal Tech Project. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+![image](https://github.com/user-attachments/assets/fcf6ddc8-5bd7-4035-935c-a6bf88d0c17d)
